@@ -1,1 +1,59 @@
-style
+#freccia{
+  left: 200px;
+  right: 20px;
+  bottom: 20px;
+  height: 150px;
+  width: 200px;
+}
+#popup{
+  background-color: rgba(255,255,255,0.5);
+  height: 150px;
+  width: 200px;
+  bottom: -120px;
+  right: 25px;
+  position: fixed;
+  text-align: center;
+  border-radius: 10px 10px 0 0;
+  display: block;
+  padding: auto;
+  border: 3.5px solid white;
+  z-index: 1;
+  transition: trasform 700ms;
+  
+}
+
+#cookiecursor{
+  cursor: pointer;
+}
+
+#accetta{
+  background-color: #32CD32;
+  width: 70px;
+  height: 25px;
+  color: black;
+  border: 3px #32CD32;
+  border-radius: 10px;
+  margin: 5px;
+  padding: auto;
+  position: fixed;
+  bottom:-55px;
+  right: 150px;
+  z-index: 2;
+  transition: trasform 700ms;
+}
+
+#rifiuta{
+  background-color: #DC143C;
+  color: black;
+  width: 70px;
+  height: 25px;
+  border: 3px #DC143C;
+  border-radius: 10px;
+  margin: 5px;
+  padding: auto;
+  position: fixed;
+  bottom:-55px;
+  right: 10px;
+  z-index: 2;
+  transition: trasform 700ms;
+}
