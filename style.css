@@ -181,3 +181,19 @@ fieldset {
 :-ms-input-placeholder {
  color:#ffffff;
 }
+
+footer {
+  background-color: rgb(0, 0, 0);
+  color: white;
+  width: 100%;
+  height: auto;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+.piepagina {
+  max-width: 100%;
+  text-align: center;
+  margin: 0;
+  font-size: 13px;
+}
