@@ -183,8 +183,8 @@ fieldset {
 }
 
 footer {
-  background-color: rgb(0, 0, 0);
-  color: white;
+  background-color: rgb(159, 226, 255);
+  color: rgb(255, 255, 255);
   width: 100%;
   height: auto;
   margin-bottom: 0;
@@ -192,6 +192,7 @@ footer {
   margin-right: 0;
 }
 .piepagina {
+  background-color: black;
   max-width: 100%;
   text-align: center;
   margin: 0;
