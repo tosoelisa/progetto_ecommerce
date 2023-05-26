@@ -1,115 +1,163 @@
 <!DOCTYPE html>
-
-<html lang="it">
-
+<!-- ChatGPT: mi scrivi una pagina di ricerca prodotti per un ecommerce scritto in html che usa bootstrap5 -->
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Dettagli prodotto</title>
-
+  <title>La mia pagina Bootstrap</title>
+  <!-- Collegamento ai file CSS di Bootstrap -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
 </head>
-
-<body>
-  <header>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <div class="container-fluid">
-        <a class="navbar-brand" href="#">Il mio sito</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-          aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav">
-            <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="index.html">Home</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="team.html">Team</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="prodotto.html">Prodotti</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="carrello.html">Carrello</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="contatti.html">Contatti</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav>
-  </header>
-
-  <main class="container my-5">
-    <div class="row">
-      <div class="col-md-6">
-        <img src="https://i0.wp.com/tapesportivo.it/wp-content/uploads/2021/05/KIN-misto-generale.png?w=600&ssl=1" alt="tape sportivo bianco da 5cm" class="img-fluid">
-      </div>
-      <div class="col-md-6">
-        <h1 class="mb-4"> Tape rigido 5cm bianco </h1>
-        <p class="mb-4">Nasto rigido adesivo bianco con tecnologia StripStrap per uno strappo facile ed immediato per tutte le necessità.</p>
-        <h2 class="mb-3">Prezzo: €25.50</h2>
-        <form>
-          <div class="mb-3">
-            <label for="quantita" class="form-label">Quantità:</label>
-            <input type="number" class="form-control" id="quantita" min="1" value="1">
+<body class="background" id="font">
+  <link rel="stylesheet" href="style.css">
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+          <div class="container-fluid">
+            <a class="navbar-brand" href="index.html"><b>My Tape</b></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+              <ul class="navbar-nav">
+                <li class="nav-item">
+                  <a class="nav-link active" aria-current="page" href="#">Home</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="team.html">Team</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="prodotto.html">Prodotti</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="carrello.html">Carrello</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="contatti.html">Contatti</a>
+                </li>
+              </ul>
+            </div>
           </div>
-          <span class="btn btn-primary">Aggiungi al carrello</span>
-        </form>
-      </div>
-    </div>
-  </main>
+        </nav>
+      </header>
 
-  <main class="container my-5">
-  <div class="row">
-    <div class="col-md-6">
-      <img src="https://i0.wp.com/tapesportivo.it/wp-content/uploads/2021/05/1.png?w=600&ssl=1" alt="tape sportivo bianco da 5cm" class="img-fluid">
-    </div>
-    <div class="col-md-6">
-      <h1 class="mb-4"> Tensoplast </h1>
-      <p class="mb-4">Nasto elastico bianco con tecnologia adesiva antiallergia.</p>
-      <h2 class="mb-3">Prezzo: €37.50</h2>
-      <form>
-        <div class="mb-3">
-          <label for="quantita" class="form-label">Quantità:</label>
-          <input type="number" class="form-control" id="quantita" min="1" value="1">
+    <main class="container my-5">
+        <hr>
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+            <div class="col">
+                <div class="card h-100">
+                  <a href="prodotto.html">
+                    <img src="https://i0.wp.com/tapesportivo.it/wp-content/uploads/2021/05/tape-5-cm-6-pz.png?fit=600%2C600&#038;ssl=1" class="card-img-top" alt="...">
+                  </a>
+                    <div class="card-body">
+                        <h5 class="card-title">Tape bianco</h5>
+                        <p class="card-text">Tape da 5cm, con tecnologia strip anaelastico e anallergico </p>
+                        <p class="card-text"><strong>€</strong> 4,99</p>
+                        <a href="carrello.html" class="btn btn-primary" onclick="aggiungiAlCarrello()">Aggiungi al carrello</a>
+                        <a href="carrello.html" class="btn btn-primary" onclick="rimuoviDalCarrello()">Rimuovi dal carrello</a>
+                    </div>                    
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="https://i0.wp.com/tapesportivo.it/wp-content/uploads/2021/05/tape-generale.png?w=600&ssl=1" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Tape bianco</h5>
+                        <p class="card-text">Tape da 2,5 cm, con tecnologia strip anaelastico e anallergic</p>
+                        <p class="card-text"><strong>€</strong> 3,50</p>
+                        <a href="carrello.html" class="btn btn-primary" onclick="aggiungiAlCarrello()">Aggiungi al carrello</a>
+                        <a href="carrello.html" class="btn btn-primary" onclick="rimuoviDalCarrello()">Rimuovi dal carrello</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="https://i0.wp.com/tapesportivo.it/wp-content/uploads/2022/07/1.png?w=1080&ssl=1" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Olio per colla</h5>
+                        <p class="card-text">Olio da massaggio per togliere i residui di colla con deilcatezza</p>
+                        <p class="card-text"><strong>€</strong> 17,99</p>
+                        <a href="carrello.html" class="btn btn-primary" onclick="aggiungiAlCarrello()">Aggiungi al carrello</a>
+                        <a href="carrello.html" class="btn btn-primary" onclick="rimuoviDalCarrello()">Rimuovi dal carrello</a>
+                    </div>
+                </div>
+            </div>
         </div>
-        <span class="btn btn-primary">Aggiungi al carrello</span>
-      </form>
-    </div>
+
+
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+      <div class="col">
+          <div class="card h-100">
+            <a href="prodotto.html">
+              <img src="https://i0.wp.com/tapesportivo.it/wp-content/uploads/2022/08/1.png?resize=1536%2C1536&ssl=1" class="card-img-top" alt="...">
+            </a>
+              <div class="card-body">
+                  <h5 class="card-title">Arnica</h5>
+                  <p class="card-text">Tubetto di arnica scaldante da 100g per dolori muscolari</p>
+                  <p class="card-text"><strong>€</strong> 20,99</p>
+                  <a href="carrello.html" class="btn btn-primary" onclick="aggiungiAlCarrello()">Aggiungi al carrello</a>
+                  <a href="carrello.html" class="btn btn-primary" onclick="rimuoviDalCarrello()">Rimuovi dal carrello</a>
+              </div>                    
+          </div>
+      </div>
+      <div class="col">
+          <div class="card h-100">
+              <img src="https://i0.wp.com/tapesportivo.it/wp-content/uploads/2021/05/KIN-azzurro-generale-1.png?w=600&ssl=1" class="card-img-top" alt="...">
+              <div class="card-body">
+                  <h5 class="card-title">Kinesio tape</h5>
+                  <p class="card-text">Kinesio Tape da 5 cm, anallergico con tecnologia a raggi infrarossi</p>
+                  <p class="card-text"><strong>€</strong> 7,99</p>
+                  <a href="carrello.html" class="btn btn-primary" onclick="aggiungiAlCarrello()">Aggiungi al carrello</a>
+                  <a href="carrello.html" class="btn btn-primary" onclick="rimuoviDalCarrello()">Rimuovi dal carrello</a>
+              </div>
+          </div>
+      </div>
+      <div class="col">
+          <div class="card h-100">
+              <img src="https://i0.wp.com/tapesportivo.it/wp-content/uploads/2022/08/2.png?resize=1536%2C1536&ssl=1" class="card-img-top" alt="...">
+              <div class="card-body">
+                  <h5 class="card-title">Olio da massaggio pre attività</h5>
+                  <p class="card-text">Olio da massaggio pre attività sportiva da 150ml</p>
+                  <p class="card-text"><strong>€</strong> 23,99</p>
+                  <a href="carrello.html" class="btn btn-primary" onclick="aggiungiAlCarrello()">Aggiungi al carrello</a>
+                  <a href="carrello.html" class="btn btn-primary" onclick="rimuoviDalCarrello()">Rimuovi dal carrello</a>
+              </div>
+          </div>
+      </div>
   </div>
 </main>
 
-<main class="container my-5">
-<div class="row">
-  <div class="col-md-6">
-    <img src="https://i0.wp.com/tapesportivo.it/wp-content/uploads/2021/05/KIN-misto-6-pz.png?fit=600%2C600&#038;ssl=1" alt="tape sportivo bianco da 5cm" class="img-fluid">
-  </div>
-  <div class="col-md-6">
-    <h1 class="mb-4"> Kinesio Tape </h1>
-    <p class="mb-4">Kineseio taping con colla antiallergica di 3 colori possibili: nero, rosa e azzurro (scatola di colori casuali). </p>
-    <h2 class="mb-3">Prezzo: €27.50</h2>
-    <form>
-      <div class="mb-3">
-        <label for="quantita" class="form-label">Quantità:</label>
-        <input type="number" class="form-control" id="quantita" min="1" value="1">
-      </div>
-      <span class="btn btn-primary">Aggiungi al carrello</span>
-    </form>
-  </div>
-</div>
-</main>
-  <footer class="bg-dark text-light py-3">
+    <footer class="bg-dark text-light py-3">
     <div class="container text-center">
-      <p>tel: 333 XXXXXXX - email: mytape@italia</p>
+      <p>&copy; 2023 Il mio sito - Tutti i diritti riservati</p>
     </div>
   </footer>
 
+<style>
+  .card-img-top:hover {
+    opacity: 0.5;    
+  }
+</style>
 
+<script>
+function aggiungiAlCarrello() {
+  var carrello = document.getElementById("carrello");
+  var numero = parseInt(carrello.innerHTML);
+  numero++;
+  carrello.innerHTML = numero;
+}
+function rimuoviDalCarrello() {
+  var carrello = document.getElementById("carrello");
+  var numero = parseInt(carrello.innerHTML);
+  numero--;
+  carrello.innerHTML = numero;
+}
+function svuotaCarrello() {
+  var carrello = document.getElementById("carrello");
+  carrello.innerHTML = 0;
+}
+</script>
+
+  <!-- Collegamento ai file JavaScript di Bootstrap -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
-
 </html>
-
