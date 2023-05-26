@@ -1,6 +1,36 @@
-background{
-  color white;
+.background{
+  background-color:rgb(236, 250, 255);
 }
+
+#font{
+  font-family: Century gothic, Century gothic, sans-serif;
+}
+
+.col{
+  background-color: rgb(255, 255, 255, 0);
+}
+
+.card-body{
+  background-color: rgb(0, 0, 71);
+}
+
+.card-text{
+  color: aliceblue;
+}
+
+.btn{
+  background-color: rgba(0, 136, 255, 0.24);
+}
+
+.card-title{
+  color: aliceblue;
+  font-style: bold;
+}
+
+#map {border: 0.5px solid hsl(0, 0%, 100%) !important;
+  width: 100%;
+  height: 330px;}
+
 #freccia{
   left: 200px;
   right: 20px;
@@ -9,7 +39,7 @@ background{
   width: 200px;
 }
 #popup{
-  background-color: rgba(255,255,255,0.5);
+  background-color: rgb(205, 238, 253);
   height: 150px;
   width: 200px;
   bottom: -120px;
@@ -19,7 +49,7 @@ background{
   border-radius: 10px 10px 0 0;
   display: block;
   padding: auto;
-  border: 3.5px solid white;
+  border: 3.5px solid rgb(0, 2, 111);
   z-index: 1;
   transition: trasform 700ms;
   
@@ -30,33 +60,36 @@ background{
 }
 
 #accetta{
-  background-color: #32CD32;
+  background-color: rgb(205, 238, 253);
   width: 70px;
   height: 25px;
-  color: black;
-  border: 3px #32CD32;
+  color: rgb(0, 2, 111);
+  border: 3px rgb(0, 2, 111);
   border-radius: 10px;
   margin: 5px;
   padding: auto;
   position: fixed;
   bottom:-55px;
-  right: 150px;
+  right: 145px;
   z-index: 2;
   transition: trasform 700ms;
+  text-align: center;
 }
 
 #rifiuta{
-  background-color: #DC143C;
-  color: black;
+  background-color: rgb(205, 238, 253);
+  color: rgb(0, 2, 111);
   width: 70px;
   height: 25px;
-  border: 3px #DC143C;
+  border: 3px rgb(0, 2, 111);
   border-radius: 10px;
   margin: 5px;
   padding: auto;
   position: fixed;
   bottom:-55px;
-  right: 10px;
+  right: 25px;
   z-index: 2;
   transition: trasform 700ms;
+  text-align: center;
 }
+
