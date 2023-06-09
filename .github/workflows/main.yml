@@ -1,41 +1,32 @@
----
-theme: default
-_class: lead
-paginate: true
-backgroundColor: #fff
-backgroundImage: url('https://marp.app/assets/hero-background.svg')
-marp: true
-footer: https://github.com/matteobaccan/CorsoWebDesign
----
+name: Genera PDF
 
-# Corso WebDesign
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'intro/*.*'
+      - 'intro/assets/*.*'
+      - '.github/workflows/*.*'
 
-Impariamo insieme come utilizzare HTML, CSS e Javascript
+jobs:
+  build:
 
+    runs-on: ubuntu-latest
 
+    steps:
+    - uses: actions/checkout@v3
 
-
-<!-- _paginate: false -->
-<!-- _footer: "" -->
-<!-- style: "
-img[alt~='center'] {
-  display: block;
-  margin: 0 auto;
-}
-" -->
-
----
-
-## Corso di Web Design
-
-Introduzione agli strumenti di sviluppo web
-_Lezione introduttiva del corso: conoscenza, obiettivi, primi argomenti.
-Parleremo di HTML, CSS, Javascript e di tecniche di sviluppo web_
-
-matteo@baccan.it – <https://www.baccan.it>
-
----
-
-## Nuova Slide
-
-test
+    - name: generate pdf
+      run: | 
+        cd intro
+        npx @marp-team/marp-cli@latest slide.md --pdf --allow-local-files
+      
+    - name: commit & push
+      run: |
+        git add -A
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git add .
+        git commit -m "update slide files"
+        git push
+        
