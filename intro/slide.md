@@ -2,15 +2,17 @@
 theme: default
 _class: lead
 paginate: true
-backgroundColor: #fff
-backgroundImage: url('https://marp.app/assets/hero-background.svg')
+backgroundColor: #ffffff
+backgroundImage: url('https://www.molisetoursnc.com/wp-content/uploads/2018/11/sfondo-lavagna.jpg')
 marp: true
-footer: https://github.com/matteobaccan/CorsoWebDesign
+footer: progetto di Elisa Toso - Immagine d'impresa - III anno
+color: white
 ---
-
+# titolo 
+## sottotitolo
 # Corso WebDesign
 
-Impariamo insieme come utilizzare HTML, CSS e Javascript
+Impariamo ins
 
 
 
