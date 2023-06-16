@@ -170,3 +170,8 @@ fieldset {
 :-ms-input-placeholder {
 color:#ffffff;
 }
+
+.nav-link{
+	color: black;
+	font-style: bold;
+}
