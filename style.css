@@ -14,10 +14,12 @@
 .btn{
   background-color: rgb(255, 255, 255);
   border-color: rgb(255, 255, 255,);
+	border: none;
 }
 
 .btn-primary{
- color: aliceblue;	
+ color: aliceblue;
+	border: none;
 }
 .card-title{
   color: aliceblue;
