@@ -1,6 +1,8 @@
 
 .card-body{
   background-color: rgb(0, 0, 71);
+  border-colore: white;
+  border-radius: 30px;
 }
 
 .card-text{
