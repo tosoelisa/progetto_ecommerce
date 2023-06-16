@@ -1,4 +1,7 @@
-
+.card-img-top{
+	border-color: rgb(0, 0, 0);
+	border-radius: 100px;
+}
 .card-body{
   background-color: rgb(0, 0, 71);
   border-colore: rgb(0, 0, 0);
