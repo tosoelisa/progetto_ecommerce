@@ -55,7 +55,6 @@
                         <p class="card-text">Tape da 5cm, con tecnologia strip anaelastico e anallergico </p>
                         <p class="card-text"><strong>€</strong> 4,99</p>
                         <a href="carrello.html" class="btn btn-primary" onclick="aggiungiAlCarrello()">Aggiungi al carrello</a>
-                        <a href="carrello.html" class="btn btn-primary" onclick="rimuoviDalCarrello()">Rimuovi dal carrello</a>
                     </div>                    
                 </div>
             </div>
@@ -67,7 +66,6 @@
                         <p class="card-text">Tape da 2,5 cm, con tecnologia strip anaelastico e anallergic</p>
                         <p class="card-text"><strong>€</strong> 3,50</p>
                         <a href="carrello.html" class="btn btn-primary" onclick="aggiungiAlCarrello()">Aggiungi al carrello</a>
-                        <a href="carrello.html" class="btn btn-primary" onclick="rimuoviDalCarrello()">Rimuovi dal carrello</a>
                     </div>
                 </div>
             </div>
@@ -79,7 +77,6 @@
                         <p class="card-text">Olio da massaggio per togliere i residui di colla con deilcatezza</p>
                         <p class="card-text"><strong>€</strong> 17,99</p>
                         <a href="carrello.html" class="btn btn-primary" onclick="aggiungiAlCarrello()">Aggiungi al carrello</a>
-                        <a href="carrello.html" class="btn btn-primary" onclick="rimuoviDalCarrello()">Rimuovi dal carrello</a>
                     </div>
                 </div>
             </div>
@@ -97,7 +94,6 @@
                   <p class="card-text">Tubetto di arnica scaldante da 100g per dolori muscolari</p>
                   <p class="card-text"><strong>€</strong> 20,99</p>
                   <a href="carrello.html" class="btn btn-primary" onclick="aggiungiAlCarrello()">Aggiungi al carrello</a>
-                  <a href="carrello.html" class="btn btn-primary" onclick="rimuoviDalCarrello()">Rimuovi dal carrello</a>
               </div>                    
           </div>
       </div>
@@ -109,7 +105,6 @@
                   <p class="card-text">Kinesio Tape da 5 cm, anallergico con tecnologia a raggi infrarossi</p>
                   <p class="card-text"><strong>€</strong> 7,99</p>
                   <a href="carrello.html" class="btn btn-primary" onclick="aggiungiAlCarrello()">Aggiungi al carrello</a>
-                  <a href="carrello.html" class="btn btn-primary" onclick="rimuoviDalCarrello()">Rimuovi dal carrello</a>
               </div>
           </div>
       </div>
@@ -121,7 +116,6 @@
                   <p class="card-text">Olio da massaggio pre attività sportiva da 150ml</p>
                   <p class="card-text"><strong>€</strong> 23,99</p>
                   <a href="carrello.html" class="btn btn-primary" onclick="aggiungiAlCarrello()">Aggiungi al carrello</a>
-                  <a href="carrello.html" class="btn btn-primary" onclick="rimuoviDalCarrello()">Rimuovi dal carrello</a>
               </div>
           </div>
       </div>
@@ -147,19 +141,11 @@ function aggiungiAlCarrello() {
   numero++;
   carrello.innerHTML = numero;
 }
-function rimuoviDalCarrello() {
-  var carrello = document.getElementById("carrello");
-  var numero = parseInt(carrello.innerHTML);
-  numero--;
-  carrello.innerHTML = numero;
-}
-function svuotaCarrello() {
-  var carrello = document.getElementById("carrello");
-  carrello.innerHTML = 0;
-}
+
+
 </script>
 
-  <!-- Collegamento ai file JavaScript di Bootstrap -->
+ 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
