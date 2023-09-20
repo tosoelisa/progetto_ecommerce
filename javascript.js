@@ -18,6 +18,6 @@ function disappear() {
   rifiuta.style = "display: none;";
 }
 
-$('.carousel').carousel({
+$('.carousel').carousel('cycle')({
   interval: 2000
 })
