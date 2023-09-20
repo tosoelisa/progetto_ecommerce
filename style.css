@@ -200,6 +200,10 @@ color:#ffffff;
 
 }
 
+.d-block w-100{
+	height: 300px;
+	width: 200px;
+}
 
 #youtube {
     width: 100%;
