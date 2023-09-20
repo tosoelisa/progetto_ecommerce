@@ -190,6 +190,16 @@ color:#ffffff;
 	font-style: bold;
 }
 
+.swiper-button-prev:after, .swiper-rtl .swiper-button-next:after {
+    content: 'prev';
+	color: #bfbfbf;
+}
+
+.swiper-button-next:after, .swiper-rtl .swiper-button-prev:after {
+    content: 'next';
+    color: #bfbfbf;
+}
+
 #youtube {
     width: 100%;
     height: 500px;
