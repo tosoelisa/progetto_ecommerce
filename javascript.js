@@ -17,7 +17,3 @@ function disappear() {
   accetta.style = "display: none;";
   rifiuta.style = "display: none;";
 }
-
-$('.carousel').carousel('cycle')({
-  interval: 2000
-})
