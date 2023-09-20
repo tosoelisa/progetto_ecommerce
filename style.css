@@ -185,6 +185,15 @@ fieldset {
 color:#ffffff;
 }
 
+element.style {
+    position: relative;
+    left: 0px;
+    box-sizing: border-box;
+    width: 965px;
+    padding-left: 0px;
+    padding-right: 0.2px;
+}
+
 .nav-item{
 	color: black;
 	font-style: bold;
