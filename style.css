@@ -10,6 +10,12 @@ body{
 	font-family: century gothic, century gothic, sans-serif;
 }
 
+#totale{
+	font-family: century gothic, century gothic, sans-serif;
+	font-style: bold;
+	font-color: red;
+}
+
 #bottonerimuovi{
 	background-color:rgb(0, 2, 111);
 	color: white;
