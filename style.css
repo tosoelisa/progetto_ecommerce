@@ -211,11 +211,11 @@ fieldset {
 
 .swiper-button-prev:after, .swiper-rtl .swiper-button-next:after {
     content: 'prev';
-	color: #bfbfbf;
+	color: rgba (191, 191, 191, 0.5);
 }
 
 .swiper-button-next:after, .swiper-rtl .swiper-button-prev:after {
     content: 'next';
-    color: #bfbfbf;
+    color: rgba (191, 191, 191, 0.5);
 }
 
