@@ -2,6 +2,9 @@ body{
  font-family: century gothic, century gothic, sans-serif;
 }
 
+a{
+	color: none;
+}
 .card{
 	border: none;
 }
