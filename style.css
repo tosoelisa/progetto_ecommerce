@@ -18,6 +18,7 @@ body{
 #bottoncarrello{
 	background-color:rgb(0, 2, 111);
 	color: white;
+	font-color: white;
 }
 
 .card-body{
