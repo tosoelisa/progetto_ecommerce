@@ -52,7 +52,7 @@ Abbiamo anche avuto la possibilità di aggiungere delle funzionalità interattiv
 
 ## TAKE SPORT
 
-![kinesio](/immagini/kinesio.png)
+![davide](/intro/davide.png)
 
 ---
 
