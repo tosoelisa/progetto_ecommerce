@@ -8,6 +8,7 @@ marp: true
 footer: progetto di Elisa Toso - Immagine d'impresa - III anno
 color: white
 family-font: century gothic, century gothic, sans-serif
+font-size: 10pt
 ---
 # E-commerce TAKE SPORT
 ## Progetto d'esame Web Design 2
