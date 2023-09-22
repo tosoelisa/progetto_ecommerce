@@ -51,9 +51,8 @@ Abbiamo anche avuto la possibilità di aggiungere delle funzionalità interattiv
 ---
 
 ## TAKE SPORT
-img{
-src="kinesio.png"
-}
+
+![kinesio](/immagini/kinesio.png)
 
 ---
 
