@@ -59,7 +59,7 @@ Abbiamo anche avuto la possibilità di aggiungere delle funzionalità interattiv
 # Sito Web
 ## Pagina Home
 ![bg left:33% width:600px](home_cell.jpg)
-![bg middle:33% width:600px](home_cell.jpg)
+![bg center:33% width:600px](home_cell.jpg)
 ![bg right:33% width:600px](home_cell.jpg)
 
 ---
