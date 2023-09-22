@@ -52,7 +52,7 @@ Abbiamo anche avuto la possibilità di aggiungere delle funzionalità interattiv
 
 ## TAKE SPORT
 
-![bg right:33% width:600px](davide.webp.webp)
+![bg right:33% width:300px](takesport.webp)
 
 ---
 
