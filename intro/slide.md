@@ -122,6 +122,38 @@ Abbiamo anche avuto la possibilità di aggiungere delle funzionalità interattiv
 ---
 
 # Responsive
+## Home
+
+![bg left:33% width:600px](home_cell.jpg)
+![bg middle:33% width:600px](home_cell.jpg)
+![bg right:33% width:600px](home_cell.jpg)
+
+
+---
+
+# Responsive
+## Team
+
+---
+
+# Responsive
+## Prodotti
+
+---
+
+
+# Responsive
+## Prodotto
+
+---
+
+# Responsive
+## Carrello
+
+---
+
+# Responsive
+## Contatti
 
 ---
 
