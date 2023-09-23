@@ -54,7 +54,6 @@ Abbiamo anche avuto la possibilità di aggiungere delle funzionalità interattiv
 
 Nel mio caso ho scelto un sito di **e-commerce specializzato** in prodotti medici per gli atleti. Questa idea mi è nata dal fatto che quando abbiamo dovuto scegliere l'argomento ho scoperto che questa azienda, la **TakeSport**, mi avrebbe sponsorizzata come atleta. Ho quindi deciso di unire qualcosa che conosco molto bene con qualcosa di già esistente, creando una pagina a mio gusto ma con i prodotti e il logo di TakeSport. 
 In questo sito i clienti potranno esplorare e acquistare tutti i prodotti, o quasi, creati fino ad ora dall'azienda. L'**obiettivo** principale è fornire ai clienti un'esperienza completa nel mondo del taping sportivo e molto altro. Il tutto attraverso un sito semplice ed intuitivo, che permetterà ai clienti di trovare il prodotto più adatto a loro.
-![bg right:33% width:300px](takesport.webp)
 
 ---
 
