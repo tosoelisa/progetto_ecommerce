@@ -18,7 +18,7 @@ h3{
   font-size: 1em;
 }
 p{
-  font-size: 0.7 em
+  font-size: 0.7em;
 }
 ---
 # E-commerce TAKE SPORT
