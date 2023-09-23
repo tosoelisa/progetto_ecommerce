@@ -5,7 +5,6 @@ paginate: true
 backgroundColor: #ffffff
 backgroundImage: url('https://www.molisetoursnc.com/wp-content/uploads/2018/11/sfondo-lavagna.jpg')
 marp: true
-footer: progetto di Elisa Toso - Immagine d'impresa - III anno
 color: white
 font-size: 10px
 ---
