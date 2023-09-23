@@ -7,7 +7,6 @@ backgroundImage: url('https://www.molisetoursnc.com/wp-content/uploads/2018/11/s
 marp: true
 footer: progetto di Elisa Toso - Immagine d'impresa - III anno
 color: white
-family-font: century gothic, century gothic, sans-serif
 @import '~github-markdown-css';
 h1{
   font-size: 1.6em;
