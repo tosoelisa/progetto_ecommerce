@@ -8,7 +8,18 @@ marp: true
 footer: progetto di Elisa Toso - Immagine d'impresa - III anno
 color: white
 family-font: century gothic, century gothic, sans-serif
-font-size: 10pt
+h1{
+  font-size: 1.6em;
+}
+h2{
+  font-size: 1.3em;
+}
+h3{
+  font-size: 1em;
+}
+p{
+  font-size: 0.7 em
+}
 ---
 # E-commerce TAKE SPORT
 ## Progetto d'esame Web Design 2
@@ -25,7 +36,6 @@ Anno accademico 2022/2023
 img[alt~='center'] {
   display: block;
   margin: 0 auto;
-  font-size: 10pt;
 }
 " -->
 
