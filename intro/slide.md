@@ -25,6 +25,7 @@ Anno accademico 2022/2023
 img[alt~='center'] {
   display: block;
   margin: 0 auto;
+  font-size: 10pt;
 }
 " -->
 
