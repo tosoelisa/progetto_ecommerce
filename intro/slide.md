@@ -67,6 +67,7 @@ Come prima pagina all'apertura del sito comparirà la pagina Home. In alto trovi
 ---
 
 ## Pagina Team
+All'interno della pagina "Team" viene mostrato chi è il team che c'è dietro a TakeSport. Sono presentati i quattro componenti principali che gestiscono l'azienda. Ho messo le foto abbinate ai nomi, la mansione all'interno dell'organigramma, l'età e una frase significativa per loro. Le frasi sono state realizzate grazie al supporto di un ormai famoso sito di intelligenza artificiale chiamato ChatGPT.
 
 ---
 
@@ -75,6 +76,7 @@ Come prima pagina all'apertura del sito comparirà la pagina Home. In alto trovi
 ---
 
 ## Pagina Prodotti
+All'interno della pagina prodotti si trovano, oltre ai soliti componenti ripetuti all'interno di tutte le pagine, possiamo trovare una vasta gamma di prodotti tra cui il cliente può scegliere di selezionarne uno. Infatti cliccando su uno qualsiasi di questi si aprirà la pagina del singolo prodotto per
 
 ---
 
@@ -83,6 +85,7 @@ Come prima pagina all'apertura del sito comparirà la pagina Home. In alto trovi
 ---
 
 ## Pagina Prodotto Singolo
+Una volta cliccato sul prodotto nella pagina prodotti o sullo slider presente nella homepage, il cliente verrà riportato alla pagina del singolo prodotto, al cui interno si potrà trovare il prezzo, una breve descrizione e la possibilità di aggiungere il prodotto al carrello. In questo caso il sito porterà il cliente nella pagina del carrello.
 
 ---
 
@@ -91,6 +94,7 @@ Come prima pagina all'apertura del sito comparirà la pagina Home. In alto trovi
 ---
 
 ## Pagina Carrello
+Una volta scelto il prodotto di acquistare si arriva poi alla pagina del carrello in cui si potranno trovare tutti i prodotti con la possibilità di scegliere la quantità del singolo prodotto, di eliminarlo o di procedere all'acquisto.
 
 ---
 
@@ -99,6 +103,7 @@ Come prima pagina all'apertura del sito comparirà la pagina Home. In alto trovi
 ---
 
 ## Pagina Contatti
+All'interno della pagina contatti il cliente avrà la possibilità di contattare il nostro team e di visualizzare la posizione della sede. Per contattare l'azienda il cliente pdovrà semplicemente compilare il form inserendo i dati e cliccando il bottone di invio del modulo.
 
 ---
 
@@ -107,6 +112,9 @@ Come prima pagina all'apertura del sito comparirà la pagina Home. In alto trovi
 ---
 
 # GitHub
+GitHub è una piattaforma di hosting per il software. È ampiamente adottata nella comunità dello sviluppo software per gestire la versione del codice, coordinare il lavoro tra team di sviluppatori e condividere progetti open source.
+Nel mio caso, ho utilizzato GitHub per stabilire tutti i collegamenti con le immagini archiviate in locale e successivamente caricate sulla stessa piattaforma. In questo modo, ho sempre avuto un controllo completo sulla situazione relativa al risultato finale attraverso il collegamento tra GitHub e Netlify.
+Inoltre, tra i vari documenti di testo, ho incluso anche file CSS e JavaScript che, attraverso le linee di codice, si collegano alle rispettive pagine HTML.
 
 ---
 
