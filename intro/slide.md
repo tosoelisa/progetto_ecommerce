@@ -56,10 +56,10 @@ Nel mio caso ho scelto un sito di **e-commerce specializzato** in prodotti medic
 ---
 
 # Sito Web
-## Pagina Home
+**Pagina Home**
 Come prima pagina all'apertura del sito comparirà la pagina Home. In alto troviamo il banner con il logo e il menù del sito. Spostando lo sguardo un pochino più in basso invece troveremo una breve presentazione di cosa è TakeSport con accanto un video tutorial su uno dei loro prodotti (l'idea era di mettere un video di presentazione ma non esiste). Andando ancora più in basso troveremo uno slider con tutti i prodotti venduti, dove cliccando su qualsiasi di essi verremo riportati alla pagina di quello specifico prodotto. Infine potremo trovare un footer con alcuni dati tecnici e un banner a comparsa con un biscotto, che ci consentirà di accettare o meno l'utilizzo dei cookies da parte del sito. Una volta cliccato accetta o rifiuta questo banner scomparirà.
 
-![bg right:20; width:200px](home_cell.jpg)
+![bg right:20%; width:200px](home_cell.jpg)
 
 ---
 
