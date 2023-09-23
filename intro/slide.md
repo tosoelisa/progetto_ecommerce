@@ -19,7 +19,6 @@ Anno accademico 2022/2023
 
 
 <!-- _paginate: false -->
-<!-- _footer: "" -->
 <!-- style: "
 img[alt~='center'] {
   display: block;
