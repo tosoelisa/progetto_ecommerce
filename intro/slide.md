@@ -7,7 +7,7 @@ backgroundImage: url('https://www.molisetoursnc.com/wp-content/uploads/2018/11/s
 marp: true
 footer: progetto di Elisa Toso - Immagine d'impresa - III anno
 color: white
-style:" font-size: 1em;"
+font-size: 10px
 ---
 # E-commerce TAKE SPORT
 ## Progetto d'esame Web Design 2
