@@ -170,7 +170,7 @@ Il responsive design è una strategia di web design utilizzata per sviluppare si
 
 ---
 
-![width: 80%](responsive.png)
+![width: 100%](responsive.png.png)
 
 ---
 
