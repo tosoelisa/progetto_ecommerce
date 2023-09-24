@@ -71,7 +71,7 @@ HTML, Hyper Text Markup Language, è un linguaggio di markup nato per la formatt
 ---
 
 Per prima cosa, sono andata a creare due colonne, attraverso cui ho inserito in quella di sinistra un video di YouTube, mentre in quella di destra ho inserito del testo, andando a separare ogni tanto i paragrafi per rendere più chiaro e visivamente piacevole il testo. Poi ho inserito delle stringhe di testo relative allo slider, creando dei collegamenti in modo che nel momento in cui il cliente voglia andare ad informarsi di più su uno dei prodotti che vede lo possa fare cliccandoci sopra. Per concludere all'interno del footer ho voluto inserire qualche dato riguardante l'azienda.
-![bg right:33% width:300px](2homehtml.png)
+![bg right:33% width:300px](1homehtml.png)
 
 ---
 
