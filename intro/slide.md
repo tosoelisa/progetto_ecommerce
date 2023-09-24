@@ -144,7 +144,7 @@ All'interno della pagina contatti il cliente avrà la possibilità di contattare
 
 ### Struttura
 La prima cosa che si nota è una seire di box contenenti delle stringhe di testo di input, all'interno delle quali bisogna andare ad inserire determinati valori numerici o testuali. Una volta completata la compilazione si potrà procedere all'invio tramite l'apposito tasto. Subito sotto questo form di compilazione si trova una mappa contenente una finta sede, il tutto gestito a livello grafico e di dimensione all'interno della pagina css.
-![bg right:33% width:400px](1conattihtml.png)
+![bg right:33% width:400px](1contattihtml.png)
 
 ---
 
