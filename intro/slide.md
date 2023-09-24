@@ -75,7 +75,7 @@ Per prima cosa, sono andata a creare due colonne, attraverso cui ho inserito in 
 ---
 
 Qui invece troviamo tutta la parte legata a JavaScript, un codice che permette di creare effetti dimanici interattivi tramite funzioni di script invocate da eventi innescati dall'utente sulla pagina in uso, come ad esempio il click del mouse. Ad esempio nel mio sito ho usato JavaScript per la tendina dei Cookies. Al click la tendina si alza e mostra la richiesta di accettare o rifiutare le condizioni. Al click su accetta o rifiuta la tendina scomparirà e non ricomparirà a meno che non si ricarichi la pagina.
-![bg right:33% width:300px](4homehtml.png)
+![bg right:33% width:300px](java.png)
 
 ---
 
