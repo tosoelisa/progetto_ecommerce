@@ -99,7 +99,7 @@ Una volta cliccato sul prodotto nella pagina prodotti o sullo slider presente ne
 
 ## Pagina Carrello
 Una volta scelto il prodotto di acquistare si arriva poi alla pagina del carrello in cui si potranno trovare tutti i prodotti con la possibilità di scegliere la quantità del singolo prodotto, di eliminarlo o di procedere all'acquisto.
-![bg right:20% width:200px](carrello_cell.jpg)
+![bg right:20% width:200px](carrello_pc.jpg)
 
 ---
 
@@ -109,7 +109,7 @@ Una volta scelto il prodotto di acquistare si arriva poi alla pagina del carrell
 
 ## Pagina Contatti
 All'interno della pagina contatti il cliente avrà la possibilità di contattare il nostro team e di visualizzare la posizione della sede. Per contattare l'azienda il cliente pdovrà semplicemente compilare il form inserendo i dati e cliccando il bottone di invio del modulo.
-![bg right:20% width:200px](contatti_cell.jpg)
+![bg right:20% width:200px](contatti_pc.jpg)
 
 ---
 
