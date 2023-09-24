@@ -125,54 +125,35 @@ Inoltre, tra i vari documenti di testo, ho incluso anche file CSS e JavaScript c
 ---
 
 # Netlify
+Netlify è una piattaforma per sviluppatori web che aumenta la produttività unificando gli elementi contenuti all'interno del codice HTML, CSS e JavaScript dei documenti, offrendo una visione completa delle pagine web progettate.
+Personalmente, ho utilizzato Netlify per monitorare i risultati finali di ogni modifica effettuata su GitHub, con cui è stato integrato in modo corretto. Questo approccio mi ha reso molto più comodo rispetto all'utilizzo di una terza piattaforma con cui non avrei avuto la certezza dei risultati finali (ad esempio, la problematica delle immagini con CodePen). 
 
 ---
 
 # Chat GPT
+ChatGPT è un modello di intelligenza artificiale progettato per comprendere e generare testi in modo naturale, permettendo agli utenti di porre domande, ottenere consigli, acquisire informazioni o persino condurre conversazioni di routine. Questo modello può essere impiegato in una vasta gamma di contesti, tra cui assistenza clienti, consulenza, creazione di contenuti, istruzione e molto altro.
+Personalmente, ho sfruttato la sua capacità per risolvere alcune problematiche che sono sorte durante la fase di progettazione del mio sito web. Ad esempio, ho richiesto assistenza per allineare correttamente alcuni elementi. ChatGPT si è dimostrato un prezioso strumento in queste situazioni.
 
 ---
 
 # Bootstrap
+Bootstrap è un framework open source ampiamente utilizzato per lo sviluppo web. Originariamente creato da Twitter, il suo obiettivo principale è semplificare la progettazione di pagine web responsive e fornire uno stile coerente per i componenti comuni di un sito web.
+Inoltre, Bootstrap offre una serie di classi CSS predefinite che permettono di personalizzare rapidamente l'aspetto dei componenti e applicare stili di base al sito web. Ho utilizzato componenti Bootstrap nei miei progetti, successivamente personalizzandoli attraverso CSS secondo le mie preferenze.
 
 ---
 
 # Responsive
-## Home
+Il responsive design è una strategia di web design utilizzata per sviluppare siti web che si adattano automaticamente alla grafica del dispositivo su cui vengono visualizzati. Ciò include computer con diverse risoluzioni, tablet, smartphone, cellulari, web TV, ecc. Questo approccio mira a ridurre al minimo la necessità per l'utente di effettuare operazioni di ridimensionamento o scorrimento dei contenuti.
+![bg left:33% width:200px](home_cell.jpg)
+![bg center:33% width:200px](home_pc.jpg)
+![bg right:33% width:200px](home_cell.jpg)
 
-![bg left:33% width:600px](home_cell.jpg)
-![bg middle:33% width:600px](home_cell.jpg)
-![bg right:33% width:600px](home_cell.jpg)
-
-
----
-
-# Responsive
-## Team
-
----
-
-# Responsive
-## Prodotti
-
----
-
-
-# Responsive
-## Prodotto
-
----
-
-# Responsive
-## Carrello
-
----
-
-# Responsive
-## Contatti
 
 ---
 
 # GTMetrix
+GTMetrix rappresenta uno strumento online per l'analisi delle prestazioni dei siti web. Offre una vasta gamma di metriche e dettagliate informazioni riguardanti le prestazioni di un sito, consentendo agli sviluppatori e ai proprietari di siti web di valutare e ottimizzare l'efficienza delle loro pagine web.
+Ho trovato particolarmente utile GTMetrix quando ho completato la creazione del mio sito. Ho eseguito una serie di verifiche utilizzando questo strumento, il quale mi ha fornito preziosi suggerimenti per migliorare le prestazioni del mio sito. Tra gli errori più significativi, GTMetrix ha evidenziato principalmente le dimensioni eccessive delle immagini, sia in termini di dimensioni che di peso. Inoltre, ha individuato problemi a livello di codice, come spaziature vuote superflue e duplicazione accidentale o errori nella scrittura durante la fase di copia.
 
 --
 # Grazie per l'attenzione
