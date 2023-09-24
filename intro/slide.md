@@ -69,7 +69,7 @@ Come prima pagina all'apertura del sito comparirà la pagina Home. In alto trovi
 
 ## Pagina Team
 All'interno della pagina "Team" viene mostrato chi è il team che c'è dietro a TakeSport. Sono presentati i quattro componenti principali che gestiscono l'azienda. Ho messo le foto abbinate ai nomi, la mansione all'interno dell'organigramma, l'età e una frase significativa per loro. Le frasi sono state realizzate grazie al supporto di un ormai famoso sito di intelligenza artificiale chiamato ChatGPT.
-![bg right:20% width:200px](home_cell.jpg)
+![bg right:20% width:200px](team_cell.jpg)
 
 ---
 
@@ -78,7 +78,8 @@ All'interno della pagina "Team" viene mostrato chi è il team che c'è dietro a 
 ---
 
 ## Pagina Prodotti
-All'interno della pagina prodotti si trovano, oltre ai soliti componenti ripetuti all'interno di tutte le pagine, possiamo trovare una vasta gamma di prodotti tra cui il cliente può scegliere di selezionarne uno. Infatti cliccando su uno qualsiasi di questi si aprirà la pagina del singolo prodotto per
+All'interno della pagina prodotti si trovano, oltre ai soliti componenti ripetuti all'interno di tutte le pagine, possiamo trovare una vasta gamma di prodotti tra cui il cliente può scegliere di selezionarne uno. Infatti cliccando su uno qualsiasi di questi si aprirà la pagina del singolo prodotto.
+![bg right:20% width:200px](prodotti_cell.jpg)
 
 ---
 
@@ -88,6 +89,7 @@ All'interno della pagina prodotti si trovano, oltre ai soliti componenti ripetut
 
 ## Pagina Prodotto Singolo
 Una volta cliccato sul prodotto nella pagina prodotti o sullo slider presente nella homepage, il cliente verrà riportato alla pagina del singolo prodotto, al cui interno si potrà trovare il prezzo, una breve descrizione e la possibilità di aggiungere il prodotto al carrello. In questo caso il sito porterà il cliente nella pagina del carrello.
+![bg right:20% width:200px](prodotto_cell.jpg)
 
 ---
 
@@ -97,6 +99,7 @@ Una volta cliccato sul prodotto nella pagina prodotti o sullo slider presente ne
 
 ## Pagina Carrello
 Una volta scelto il prodotto di acquistare si arriva poi alla pagina del carrello in cui si potranno trovare tutti i prodotti con la possibilità di scegliere la quantità del singolo prodotto, di eliminarlo o di procedere all'acquisto.
+![bg right:20% width:200px](carrello_cell.jpg)
 
 ---
 
@@ -106,6 +109,7 @@ Una volta scelto il prodotto di acquistare si arriva poi alla pagina del carrell
 
 ## Pagina Contatti
 All'interno della pagina contatti il cliente avrà la possibilità di contattare il nostro team e di visualizzare la posizione della sede. Per contattare l'azienda il cliente pdovrà semplicemente compilare il form inserendo i dati e cliccando il bottone di invio del modulo.
+![bg right:20% width:200px](contatti_cell.jpg)
 
 ---
 
