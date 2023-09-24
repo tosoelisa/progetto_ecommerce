@@ -144,10 +144,12 @@ Inoltre, Bootstrap offre una serie di classi CSS predefinite che permettono di p
 
 # Responsive
 Il responsive design è una strategia di web design utilizzata per sviluppare siti web che si adattano automaticamente alla grafica del dispositivo su cui vengono visualizzati. Ciò include computer con diverse risoluzioni, tablet, smartphone, cellulari, web TV, ecc. Questo approccio mira a ridurre al minimo la necessità per l'utente di effettuare operazioni di ridimensionamento o scorrimento dei contenuti.
-![bg left:33% width:200px](home_cell.jpg)
-![bg center:33% width:200px](home_pc.jpg)
-![bg right:33% width:200px](home_cell.jpg)
 
+---
+
+![bg left:33% width:200px](home_cell.jpg)
+![bg left: 66% width:200px](home_pc.jpg)
+![bg right:33% width:200px](home_cell.jpg)
 
 ---
 
