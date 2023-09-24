@@ -196,6 +196,15 @@ GTMetrix rappresenta uno strumento online per l'analisi delle prestazioni dei si
 ![padding:33% width:500px](team1.png)    ![padding:33% width:500px](team2.png)
 
 ---
+# PRODOTTI                               PRODOTTO
+
+![padding:33% width:500px](prodotti1.png)    ![padding:33% width:500px](prodotto.png)   
+
+# CARRELLO                               CONTATTI
+
+![padding:33% width:500px](carrello.png)    ![padding:33% width:500px](contatti.png)
+
+---
 
 # Grazie per l'attenzione
 ## Progetto d'esaame Web Design 2
