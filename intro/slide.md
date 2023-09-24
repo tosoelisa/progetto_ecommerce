@@ -59,7 +59,7 @@ Nel mio caso ho scelto un sito di **e-commerce specializzato** in prodotti medic
 **Pagina Home**
 Come prima pagina all'apertura del sito comparirà la pagina Home. In alto troviamo il banner con il logo e il menù del sito. Spostando lo sguardo un pochino più in basso invece troveremo una breve presentazione di cosa è TakeSport con accanto un video tutorial su uno dei loro prodotti (l'idea era di mettere un video di presentazione ma non esiste). Andando ancora più in basso troveremo uno slider con tutti i prodotti venduti, dove cliccando su qualsiasi di essi verremo riportati alla pagina di quello specifico prodotto. Infine potremo trovare un footer con alcuni dati tecnici e un banner a comparsa con un biscotto, che ci consentirà di accettare o meno l'utilizzo dei cookies da parte del sito. Una volta cliccato accetta o rifiuta questo banner scomparirà.
 
-![bg right:20% width:200px](cell_home.png)
+![bg right:20% width:200px](cell_home.jpg)
 
 ---
 
@@ -83,7 +83,7 @@ Inoltre ho utilizzato anche il CSS per personalizzare al massimo il mio sito. Ad
 
 ## Pagina Team
 All'interno della pagina "Team" viene mostrato chi è il team che c'è dietro a TakeSport. Sono presentati i quattro componenti principali che gestiscono l'azienda. Ho messo le foto abbinate ai nomi, la mansione all'interno dell'organigramma, l'età e una frase significativa per loro. Le frasi sono state realizzate grazie al supporto di un ormai famoso sito di intelligenza artificiale chiamato ChatGPT.
-![bg right:20% width:200px](cell_team.png)
+![bg right:20% width:200px](cell_team.jpg)
 
 ---
 
@@ -95,7 +95,7 @@ Come in tutte le altre pagine ho mantenuto sia il footer che la barra di navigaz
 
 ## Pagina Prodotti
 All'interno della pagina prodotti si trovano, oltre ai soliti componenti ripetuti all'interno di tutte le pagine, possiamo trovare una vasta gamma di prodotti tra cui il cliente può scegliere di selezionarne uno. Infatti cliccando su uno qualsiasi di questi si aprirà la pagina del singolo prodotto.
-![bg right:20% width:200px](cell_prodotti.png)
+![bg right:20% width:200px](cell_prodotti.jpg)
 
 ---
 
@@ -108,7 +108,7 @@ Come in tutte le altre pagine ho mantenuto sia il footer che la barra di navigaz
 
 ## Pagina Prodotto Singolo
 Una volta cliccato sul prodotto nella pagina prodotti o sullo slider presente nella homepage, il cliente verrà riportato alla pagina del singolo prodotto, al cui interno si potrà trovare il prezzo, una breve descrizione e la possibilità di aggiungere il prodotto al carrello. In questo caso il sito porterà il cliente nella pagina del carrello.
-![bg right:20% width:200px](cell_prodotto.png)
+![bg right:20% width:200px](cell_prodotto.jpg)
 
 ---
 
@@ -120,7 +120,7 @@ Come in tutte le altre pagine ho mantenuto sia il footer che la barra di navigaz
 
 ## Pagina Carrello
 Una volta scelto il prodotto di acquistare si arriva poi alla pagina del carrello in cui si potranno trovare tutti i prodotti con la possibilità di scegliere la quantità del singolo prodotto, di eliminarlo o di procedere all'acquisto.
-![bg right:20% width:200px](cell_carrello.png)
+![bg right:20% width:200px](cell_carrello.jpg)
 
 ---
 
@@ -131,7 +131,7 @@ All'interno della pagina del carrello troviamo una tabella con i titoli scritti 
 
 ## Pagina Contatti
 All'interno della pagina contatti il cliente avrà la possibilità di contattare il nostro team e di visualizzare la posizione della sede. Per contattare l'azienda il cliente pdovrà semplicemente compilare il form inserendo i dati e cliccando il bottone di invio del modulo.
-![bg right:20% width:200px](cell_contatti.png)
+![bg right:20% width:200px](cell_contatti.jpg)
 
 ---
 
