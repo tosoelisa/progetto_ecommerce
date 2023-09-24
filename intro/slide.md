@@ -7,6 +7,7 @@ backgroundImage: url('https://www.molisetoursnc.com/wp-content/uploads/2018/11/s
 marp: true
 color: white
 fontSize: 10px
+fontFamily: century gothic century gothic sans-serif
 ---
 # E-commerce TAKE SPORT
 ## Progetto d'esame Web Design 2
@@ -68,6 +69,7 @@ Come prima pagina all'apertura del sito comparirà la pagina Home. In alto trovi
 
 ## Pagina Team
 All'interno della pagina "Team" viene mostrato chi è il team che c'è dietro a TakeSport. Sono presentati i quattro componenti principali che gestiscono l'azienda. Ho messo le foto abbinate ai nomi, la mansione all'interno dell'organigramma, l'età e una frase significativa per loro. Le frasi sono state realizzate grazie al supporto di un ormai famoso sito di intelligenza artificiale chiamato ChatGPT.
+![bg right:20% width:200px](home_cell.jpg)
 
 ---
 
