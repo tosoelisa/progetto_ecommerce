@@ -189,11 +189,11 @@ GTMetrix rappresenta uno strumento online per l'analisi delle prestazioni dei si
 
 # HOMEPAGE
 
-![padding:33% width:600px](home1.png) ![padding:33% width:600px](home2.png)
+![padding:33% width:500px](home1.png)    ![padding:33% width:500px](home2.png)
 
 # TEAM
 
-![padding:33% width:600px](team1.png) ![padding:33% width:600px](team2.png)
+![padding:33% width:500px](team1.png)    ![padding:33% width:500px](team2.png)
 
 ---
 
