@@ -94,7 +94,7 @@ All'interno della pagina "Team" viene mostrato chi è il team che c'è dietro a 
 ### Struttura
 La pagina del TEAM a livello di programmazione è molto semplice. Ho utilizzato due colonne: nella prima ho inserito le foto dei componenti del team aziendale, con un raggio del bordo che mi permettesse di ottenere un cerchio, mentre nella colonna di destra ho inserito le informazioni relative ad ogni componente del gruppo.
 Come in tutte le altre pagine ho mantenuto sia il footer che la barra di navigazione.
-![bg right:20% width:200px](1teamhtml.png)
+![bg right:33% width:300px](1teamhtml.png)
 
 ---
 
@@ -107,7 +107,7 @@ All'interno della pagina prodotti si trovano, oltre ai soliti componenti ripetut
 ### Struttura
 La pagina contiene, una serie di stringhe di testo che si ripetono per ogni prodotto, in cui troviamo una class che va a contenere all'interno di uno specifico riquadro un'immagine, che è anche un collegamento ipertestuale alla pagina del prodotto specifico, e la relativa descrizione al di sotto. 
 Come in tutte le altre pagine ho mantenuto sia il footer che la barra di navigazione.
-![bg right:20% width:200px](1prodottihtml.png)
+![bg right:33% width:300px](1prodottihtml.png)
 
 ---
 
@@ -120,7 +120,7 @@ Una volta cliccato sul prodotto nella pagina prodotti o sullo slider presente ne
 ### Struttura
 All'interno della pagina in cui vengono visualizzati i prodotti specifici troviamo diverse class in cui viene definita l'immagine, la descrizione del prodotto e la quantità che con degli option selected permettono al cliente di selezionare quella desiderata. C'è poi sotto un tasto che consente di aggiungere al carrello il prodotto selezionato, realizzato con bootstrap e modificato in css. La parte di css del tasto realizzato tramite bootstrap è con lo stesso stile di tutti i successivi.
 Come in tutte le altre pagine ho mantenuto sia il footer che la barra di navigazione.
-![bg right:20% width:200px](1arnicahtml.png)
+![bg right:33% width:300px](1arnicahtml.png)
 
 ---
 
@@ -132,7 +132,7 @@ Una volta scelto il prodotto di acquistare si arriva poi alla pagina del carrell
 
 ### Struttura
 All'interno della pagina del carrello troviamo una tabella con i titoli scritti come prima riga, per poipassare alla seconda riga di contenuto dove sono andata a raggrupparli all'interno di una classe per fare sì che si allineassero tutti al centro di essa, definendo poi i vari margini. Una volta chiusa la tabella sono andato ad inserire una stringa di testo che indichi il risultato finale del calcolo, inserendo poi un altro tasto bootstrap per completare l'acquisto o per rimuovere tutti gli articoli del carrello.
-![bg right:20% width:200px](1carrellohtml.png)
+![bg right:33% width:300px](1carrellohtml.png)
 
 ---
 
@@ -144,7 +144,7 @@ All'interno della pagina contatti il cliente avrà la possibilità di contattare
 
 ### Struttura
 La prima cosa che si nota è una seire di box contenenti delle stringhe di testo di input, all'interno delle quali bisogna andare ad inserire determinati valori numerici o testuali. Una volta completata la compilazione si potrà procedere all'invio tramite l'apposito tasto. Subito sotto questo form di compilazione si trova una mappa contenente una finta sede, il tutto gestito a livello grafico e di dimensione all'interno della pagina css.
-![bg right:20% width:200px](1conattihtml.png)
+![bg right:33% width:300px](1conattihtml.png)
 
 ---
 
