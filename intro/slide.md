@@ -6,7 +6,7 @@ backgroundColor: #ffffff
 backgroundImage: url('https://www.molisetoursnc.com/wp-content/uploads/2018/11/sfondo-lavagna.jpg')
 marp: true
 color: white
-font-size: 10px
+fontSize: 10px
 ---
 # E-commerce TAKE SPORT
 ## Progetto d'esame Web Design 2
