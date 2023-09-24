@@ -64,7 +64,7 @@ Come prima pagina all'apertura del sito comparirà la pagina Home. In alto trovi
 
 ---
 
-## Struttura
+### Struttura
 HTML, Hyper Text Markup Language, è un linguaggio di markup nato per la formattazione e impaginazione di documenti ipertestuali disponibili nel web. All'interno di esso sono andata a definire il font utilizzato (in questo caso il Century Gothic), a sviluppare la parte della navbar, che comprende il logo con le relative misure e margini e gli elementi comprendenti i collegamenti ipertestuali alle altre pagine collegate. Sono andata poi a inserire in ogni pagina delle righe di codice costanti come quelle legate al relativo collegamento con il CSS e a JavaScript dei Cookies.
 ![bg right:33% width:300px](navbar.png)
 
@@ -184,6 +184,12 @@ Il responsive design è una strategia di web design utilizzata per sviluppare si
 
 # GTMetrix
 GTMetrix rappresenta uno strumento online per l'analisi delle prestazioni dei siti web. Offre una vasta gamma di metriche e dettagliate informazioni riguardanti le prestazioni di un sito, consentendo agli sviluppatori e ai proprietari di siti web di valutare e ottimizzare l'efficienza delle loro pagine web. Ho trovato particolarmente utile GTMetrix quando ho completato la creazione del mio sito. Ho eseguito una serie di verifiche utilizzando questo strumento, che mi ha fornito preziosi suggerimenti per migliorare le prestazioni del mio sito. Tra quelli più significativi, GTMetrix ha evidenziato principalmente le dimensioni eccessive delle immagini, in termini di peso.
+
+---
+
+# HOMEPAGE
+
+![padding-right:33% width:600px](home1.png)
 
 ---
 
