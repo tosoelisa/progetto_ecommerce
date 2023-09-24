@@ -80,7 +80,7 @@ Qui invece troviamo tutta la parte legata a JavaScript, un codice che permette d
 ---
 
 Inoltre ho utilizzato anche il CSS per personalizzare al massimo il mio sito. Ad esempio l'ho utilizzato per lo slider, per i colori, i font e per la tendina dei cookies.
-![bg right:33% width:200px](5home_html.png)
+![bg right:33% width:300px](5home_html.png)
 
 ---
 
