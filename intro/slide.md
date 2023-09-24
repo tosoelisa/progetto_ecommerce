@@ -65,7 +65,7 @@ Come prima pagina all'apertura del sito comparirà la pagina Home. In alto trovi
 
 ## Struttura
 HTML, Hyper Text Markup Language, è un linguaggio di markup nato per la formattazione e impaginazione di documenti ipertestuali disponibili nel web. All'interno di esso sono andata a definire il font utilizzato (in questo caso il Century Gothic), a sviluppare la parte della navbar, che comprende il logo con le relative misure e margini e gli elementi comprendenti i collegamenti ipertestuali alle altre pagine collegate. Sono andata poi a inserire in ogni pagina delle righe di codice costanti come quelle legate al relativo collegamento con il CSS e a JavaScript dei Cookies.
-![bg right:33% width:300px](1homehtml.png)
+![bg right:33% width:300px](navbar.png)
 
 ---
 
