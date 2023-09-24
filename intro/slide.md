@@ -174,6 +174,10 @@ Il responsive design è una strategia di web design utilizzata per sviluppare si
 
 ---
 
+backgroundImage: responsive.png.png
+
+---
+
 # GTMetrix
 GTMetrix rappresenta uno strumento online per l'analisi delle prestazioni dei siti web. Offre una vasta gamma di metriche e dettagliate informazioni riguardanti le prestazioni di un sito, consentendo agli sviluppatori e ai proprietari di siti web di valutare e ottimizzare l'efficienza delle loro pagine web. Ho trovato particolarmente utile GTMetrix quando ho completato la creazione del mio sito. Ho eseguito una serie di verifiche utilizzando questo strumento, che mi ha fornito preziosi suggerimenti per migliorare le prestazioni del mio sito. Tra quelli più significativi, GTMetrix ha evidenziato principalmente le dimensioni eccessive delle immagini, in termini di peso.
 
