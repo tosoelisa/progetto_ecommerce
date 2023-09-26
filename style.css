@@ -122,14 +122,14 @@ body{
 	display: block;
 	font-size: 30px;
 	font-weight: 400;
-	color: rgb(205, 238, 253);
+	color: rgb(0, 0, 71);
 }
 
 #contact h4 {
 	margin:5px 0 15px;
 	display:block;
 	font-size:13px;
-	color: rgb(205, 238, 253);
+	color: rgb(0, 0, 71);
 }
 
 
@@ -140,6 +140,7 @@ fieldset {
 	min-width: 100%;
 	padding: 0;
 	width: 100%;
+	color: rgb(0, 0, 71);
 }
 
 #contact input[type="text"], #contact input[type="email"], #contact input[type="tel"], #contact input[type="url"], #contact textarea {
@@ -148,7 +149,7 @@ fieldset {
 	background: #ffffff;
 	margin:0 0 5px;
 	padding:10px;
-	color: rgb(205, 238, 253);
+	color: rgb(0, 0, 71);
 }
 
 #contact input[type="text"]:hover, #contact input[type="email"]:hover, #contact input[type="tel"]:hover, #contact input[type="url"]:hover, #contact textarea:hover {
