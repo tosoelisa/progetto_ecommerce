@@ -45,8 +45,7 @@ img[alt~='center'] {
 ## Introduzione
 
 Durante il corso abbiamo avuto l'occasione di sviluppare e creare un nostro sito di e-commerce, utilizando una combinazione di codici HTML, CSS e JavaScript. Questa esperienza ci ha permeso di mettere in pratica le nostre competenze acquisite nel corso e di creare un sito web personalizzato al 100% che fosse funzionale e al tempo stesso accattivante per il cliente.
-Abbiamo scelto il nostro argomento in totale libertà, in modo che fosse in linea con i nostri interessi e le nostre passioni, creando così un sito di e-commerce reale e funzionante.
-Abbiamo anche avuto la possibilità di aggiungere delle funzionalità interattive utilizzando JavaScript, consentendo agli utenti di interagire con il sito in modo dinamico e intuitivo.
+Abbiamo scelto il nostro argomento in totale libertà, in modo che fosse in linea con i nostri interessi e le nostre passioni, creando così un sito di e-commerce reale e funzionante. Abbiamo anche avuto la possibilità di aggiungere delle funzionalità interattive utilizzando JavaScript, consentendo agli utenti di interagire con il sito in modo dinamico e intuitivo.
 
 ---
 
@@ -70,12 +69,12 @@ HTML, Hyper Text Markup Language, è un linguaggio di markup nato per la formatt
 
 ---
 
-Per prima cosa, sono andata a creare due colonne, attraverso cui ho inserito in quella di sinistra un video di YouTube, mentre in quella di destra ho inserito del testo, andando a separare ogni tanto i paragrafi per rendere più chiaro e visivamente piacevole il testo. Poi ho inserito delle stringhe di testo relative allo slider, creando dei collegamenti in modo che nel momento in cui il cliente voglia andare ad informarsi di più su uno dei prodotti che vede lo possa fare cliccandoci sopra. Per concludere all'interno del footer ho voluto inserire qualche dato riguardante l'azienda.
+Per prima cosa, sono andata a creare due colonne, attraverso cui ho inserito in quella di destra un video di YouTube, mentre in quella di sinistra ho inserito del testo, andando a separare quando necessario i paragrafi per rendere più chiaro e visivamente piacevole il testo. Poi ho inserito delle stringhe di testo relative allo slider, creando dei collegamenti in modo che, nel momento in cui il cliente voglia andare ad informarsi di più su uno dei prodotti lo possa fare cliccandoci sopra. Per concludere all'interno del footer ho voluto inserire qualche dato riguardante l'azienda.
 ![bg right:33% width:400px](1homehtml.png)
 
 ---
 
-Qui invece troviamo tutta la parte legata a JavaScript, un codice che permette di creare effetti dimanici interattivi tramite funzioni di script invocate da eventi innescati dall'utente sulla pagina in uso, come ad esempio il click del mouse. Ad esempio nel mio sito ho usato JavaScript per la tendina dei Cookies. Al click la tendina si alza e mostra la richiesta di accettare o rifiutare le condizioni. Al click su accetta o rifiuta la tendina scomparirà e non ricomparirà a meno che non si ricarichi la pagina.
+Qui invece troviamo tutta la parte legata a JavaScript, un codice che permette di creare effetti dimanici interattivi tramite funzioni di script invocate da eventi innescati dall'utente sulla pagina in uso, come ad esempio il click del mouse. Nel mio sito ho usato JavaScript per il banner dei Cookies. Al click la tendina si alza e mostra la richiesta di accettare o rifiutare le condizioni. Al click su accetta o rifiuta la tendina scomparirà e non ricomparirà a meno che non si ricarichi la pagina.
 ![bg right:33% width:400px](java.png)
 
 ---
@@ -86,26 +85,26 @@ Inoltre ho utilizzato anche il CSS per personalizzare al massimo il mio sito. Ad
 ---
 
 ## Pagina Team
-All'interno della pagina "Team" viene mostrato chi è il team che c'è dietro a TakeSport. Sono presentati i quattro componenti principali che gestiscono l'azienda. Ho messo le foto abbinate ai nomi, la mansione all'interno dell'organigramma, l'età e una frase significativa per loro. Le frasi sono state realizzate grazie al supporto di un ormai famoso sito di intelligenza artificiale chiamato ChatGPT.
+All'interno della pagina "Team" viene mostrato chi è il team che c'è dietro a TakeSport, palesemente inventato. Sono presentati i quattro componenti principali che gestiscono l'azienda. Ho messo le foto abbinate ai nomi, la mansione, la laurea acquisita, l'età e una frase significativa per loro. Le frasi sono state realizzate grazie al supporto di un ormai famoso sito di intelligenza artificiale chiamato ChatGPT.
 ![bg right:20% width:200px](cell_team.jpg)
 
 ---
 
 ### Struttura
-La pagina del TEAM a livello di programmazione è molto semplice. Ho utilizzato due colonne: nella prima ho inserito le foto dei componenti del team aziendale, con un raggio del bordo che mi permettesse di ottenere un cerchio, mentre nella colonna di destra ho inserito le informazioni relative ad ogni componente del gruppo.
+La pagina del TEAM a livello di programmazione è molto semplice. Ho utilizzato due colonne: nella prima ho inserito le foto dei componenti del team aziendale, con un raggio del bordo tale da ottenere un cerchio, mentre nella colonna di destra ho inserito le informazioni relative ad ogni componente del gruppo.
 Come in tutte le altre pagine ho mantenuto sia il footer che la barra di navigazione.
 ![bg right:33% width:400px](1teamhtml.png)
 
 ---
 
 ## Pagina Prodotti
-All'interno della pagina prodotti si trovano, oltre ai soliti componenti ripetuti all'interno di tutte le pagine, possiamo trovare una vasta gamma di prodotti tra cui il cliente può scegliere di selezionarne uno. Infatti cliccando su uno qualsiasi di questi si aprirà la pagina del singolo prodotto.
+All'interno della pagina prodotti si trovano, oltre ai soliti componenti ripetuti all'interno di tutte le pagine, una vasta gamma di articoli tra cui il cliente può scegliere di selezionarne uno. Infatti cliccando su uno qualsiasi di questi si aprirà la pagina del singolo prodotto.
 ![bg right:20% width:200px](cell_prodotti.jpg)
 
 ---
 
 ### Struttura
-La pagina contiene, una serie di stringhe di testo che si ripetono per ogni prodotto, in cui troviamo una class che va a contenere all'interno di uno specifico riquadro un'immagine, che è anche un collegamento ipertestuale alla pagina del prodotto specifico, e la relativa descrizione al di sotto. 
+La pagina contiene, una serie di stringhe di testo che si ripetono per ogni prodotto, in cui troviamo una class che contiene, all'interno di uno specifico riquadro, un'immagine (che è anche un collegamento ipertestuale alla pagina del prodotto specifico) e la relativa descrizione al di sotto. 
 Come in tutte le altre pagine ho mantenuto sia il footer che la barra di navigazione.
 ![bg right:33% width:400px](1prodottihtml.png)
 
@@ -118,20 +117,19 @@ Una volta cliccato sul prodotto nella pagina prodotti o sullo slider presente ne
 ---
 
 ### Struttura
-All'interno della pagina in cui vengono visualizzati i prodotti specifici troviamo diverse class in cui viene definita l'immagine, la descrizione del prodotto e la quantità che con degli option selected permettono al cliente di selezionare quella desiderata. C'è poi sotto un tasto che consente di aggiungere al carrello il prodotto selezionato, realizzato con bootstrap e modificato in css. La parte di css del tasto realizzato tramite bootstrap è con lo stesso stile di tutti i successivi.
-Come in tutte le altre pagine ho mantenuto sia il footer che la barra di navigazione.
+All'interno della pagina in cui vengono visualizzati i prodotti specifici, troviamo diverse class in cui viene definita l'immagine, la descrizione del prodotto e la quantità che con degli option selected permetteranno al cliente di selezionare quella desiderata. C'è poi sotto un tasto che consente di aggiungere al carrello il prodotto selezionato, realizzato con bootstrap e modificato in CSS. La parte di CSS del tasto realizzato tramite Bootstrap è con lo stesso stile di tutti i successivi. Come in tutte le altre pagine ho mantenuto sia il footer che la barra di navigazione.
 ![bg right:33% width:400px](1arnicahtml.png)
 
 ---
 
 ## Pagina Carrello
-Una volta scelto il prodotto di acquistare si arriva poi alla pagina del carrello in cui si potranno trovare tutti i prodotti con la possibilità di scegliere la quantità del singolo prodotto, di eliminarlo o di procedere all'acquisto.
+Una volta scelto il prodotto da compare si passa poi alla pagina del carrello in cui si potranno trovare tutti gli articoli acquistabili con la possibilità di scegliere la quantità del singolo prodotto, di eliminarlo o di procedere all'acquisto.
 ![bg right:20% width:200px](cell_carrello.jpg)
 
 ---
 
 ### Struttura
-All'interno della pagina del carrello troviamo una tabella con i titoli scritti come prima riga, per poipassare alla seconda riga di contenuto dove sono andata a raggrupparli all'interno di una classe per fare sì che si allineassero tutti al centro di essa, definendo poi i vari margini. Una volta chiusa la tabella sono andato ad inserire una stringa di testo che indichi il risultato finale del calcolo, inserendo poi un altro tasto bootstrap per completare l'acquisto o per rimuovere tutti gli articoli del carrello.
+All'interno della pagina del carrello troviamo una tabella con i titoli scritti nell'intestazione della riga, per poipassare alla seconda riga di contenuto dove sono andata a raggruppare il tutto all'interno di una classe per fare sì che si allineassero tutti al centro di essa, definendo poi i vari margini. Una volta chiusa la tabella sono andato ad inserire una stringa di testo che indichi il risultato finale del calcolo, inserendo poi un altro tasto bootstrap per completare l'acquisto o per rimuovere tutti gli articoli del carrello.
 ![bg right:33% width:400px](1carrellohtml.png)
 
 ---
@@ -150,31 +148,30 @@ La prima cosa che si nota è una seire di box contenenti delle stringhe di testo
 
 # GitHub
 GitHub è una piattaforma di hosting per il software. È ampiamente adottata nella comunità dello sviluppo software per gestire la versione del codice, coordinare il lavoro tra team di sviluppatori e condividere progetti open source.
-Nel mio caso, ho utilizzato GitHub per stabilire tutti i collegamenti con le immagini archiviate in locale e successivamente caricate sulla stessa piattaforma. In questo modo, ho sempre avuto un controllo completo sulla situazione relativa al risultato finale attraverso il collegamento tra GitHub e Netlify.
-Inoltre, tra i vari documenti di testo, ho incluso anche file CSS e JavaScript che, attraverso le linee di codice, si collegano alle rispettive pagine HTML.
+Nel mio caso, ho utilizzato GitHub per stabilire tutti i collegamenti con le immagini archiviate in locale e successivamente caricate sulla stessa piattaforma. In questo modo, ho sempre avuto un controllo completo sulla situazione relativa al risultato finale attraverso il collegamento tra GitHub e Netlify. Inoltre, tra i vari documenti di testo, ho incluso anche file CSS e JavaScript che, attraverso le linee di codice, si collegano alle rispettive pagine HTML.
 
 ---
 
 # Netlify
 Netlify è una piattaforma per sviluppatori web che aumenta la produttività unificando gli elementi contenuti all'interno del codice HTML, CSS e JavaScript dei documenti, offrendo una visione completa delle pagine web progettate.
-Personalmente, ho utilizzato Netlify per monitorare i risultati finali di ogni modifica effettuata su GitHub, con cui è stato integrato in modo corretto. Questo approccio mi ha reso molto più comodo rispetto all'utilizzo di una terza piattaforma con cui non avrei avuto la certezza dei risultati finali (ad esempio, la problematica delle immagini con CodePen). 
+Personalmente ho utilizzato Netlify per monitorare i risultati finali, di ogni modifica effettuata su GitHub, con cui è stato integrato in modo corretto. Questo approccio mi ha reso molto più comodo rispetto all'utilizzo di una terza piattaforma con cui non avrei avuto la certezza dei risultati finali (ad esempio, la problematica delle immagini con CodePen). 
 
 ---
 
 # Chat GPT
 ChatGPT è un modello di intelligenza artificiale progettato per comprendere e generare testi in modo naturale, permettendo agli utenti di porre domande, ottenere consigli, acquisire informazioni o persino condurre conversazioni di routine. Questo modello può essere impiegato in una vasta gamma di contesti, tra cui assistenza clienti, consulenza, creazione di contenuti, istruzione e molto altro.
-Personalmente, ho sfruttato la sua capacità per risolvere alcune problematiche che sono sorte durante la fase di progettazione del mio sito web. Ad esempio, ho richiesto assistenza per allineare correttamente alcuni elementi. ChatGPT si è dimostrato un prezioso strumento in queste situazioni.
+Personalmente, ho sfruttato la sua capacità per risolvere alcune problematiche che sono sorte durante la fase di progettazione del mio sito web. Ad esempio, ho richiesto assistenza per allineare correttamente alcuni elementi e per scrivere qualche citazione inventata per i personaggi del team. ChatGPT si è dimostrato un prezioso strumento in queste situazioni.
 
 ---
 
 # Bootstrap
-Bootstrap è un framework open source ampiamente utilizzato per lo sviluppo web. Originariamente creato da Twitter, il suo obiettivo principale è semplificare la progettazione di pagine web responsive e fornire uno stile coerente per i componenti comuni di un sito web.
-Inoltre, Bootstrap offre una serie di classi CSS predefinite che permettono di personalizzare rapidamente l'aspetto dei componenti e applicare stili di base al sito web. Ho utilizzato componenti Bootstrap nei miei progetti, successivamente personalizzandoli attraverso CSS secondo le mie preferenze.
+Bootstrap è un framework open source ampiamente utilizzato per lo sviluppo web. Originariamente creato da X, il suo obiettivo principale è semplificare la progettazione di pagine web responsive e fornire uno stile coerente per i componenti comuni di un sito web. Inoltre, Bootstrap offre una serie di classi CSS predefinite che permettono di personalizzare rapidamente l'aspetto dei componenti e applicare stili di base al sito web. 
+Ho utilizzato componenti Bootstrap nei miei progetti, successivamente personalizzandoli attraverso CSS secondo le mie preferenze.
 
 ---
 
 # Responsive
-Il responsive design è una strategia di web design utilizzata per sviluppare siti web che si adattano automaticamente alla grafica del dispositivo su cui vengono visualizzati. Ciò include computer con diverse risoluzioni, tablet, smartphone, cellulari, web TV, ecc. Questo approccio mira a ridurre al minimo la necessità per l'utente di effettuare operazioni di ridimensionamento o scorrimento dei contenuti.
+Il responsive design è una strategia di web design utilizzata per sviluppare siti web che si adattino automaticamente alla dimensione del dispositivo su cui vengono visualizzati. Ciò include computer con diverse risoluzioni, tablet, smartphone, cellulari, web TV, ecc. Questo approccio mira a ridurre al minimo la necessità dell'utente di effettuare operazioni di ridimensionamento o scorrimento dei contenuti mentre naviga.
 
 ---
 
@@ -183,7 +180,7 @@ Il responsive design è una strategia di web design utilizzata per sviluppare si
 ---
 
 # GTMetrix
-GTMetrix rappresenta uno strumento online per l'analisi delle prestazioni dei siti web. Offre una vasta gamma di metriche e dettagliate informazioni riguardanti le prestazioni di un sito, consentendo agli sviluppatori e ai proprietari di siti web di valutare e ottimizzare l'efficienza delle loro pagine web. Ho trovato particolarmente utile GTMetrix quando ho completato la creazione del mio sito. Ho eseguito una serie di verifiche utilizzando questo strumento, che mi ha fornito preziosi suggerimenti per migliorare le prestazioni del mio sito. Tra quelli più significativi, GTMetrix ha evidenziato principalmente le dimensioni eccessive delle immagini, in termini di peso.
+GTMetrix rappresenta uno strumento online per l'analisi delle prestazioni dei siti web. Offre una vasta gamma di metriche e dettagliate informazioni riguardanti le prestazioni di un sito, consentendo agli sviluppatori e ai proprietari di siti web di valutare e ottimizzare l'efficienza delle loro pagine web. Ho trovato particolarmente utile GTMetrix quando ho completato la creazione del mio sito. Ho eseguito una serie di verifiche utilizzando questo strumento, che mi ha fornito preziosi suggerimenti per migliorare le prestazioni del mio sito. Tra quelli più significativi, GTMetrix ha evidenziato il peso eccessive delle immagini, che ho quindi provveduto a diminuire trasformandole in .webp.
 
 ---
 
